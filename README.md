@@ -68,14 +68,5 @@
    Applicant's status can be update here whether she/he is hired or not.
    <img src = "https://user-images.githubusercontent.com/93570605/162722184-f0cbe20a-a6c7-468d-9243-50a4cac05a12.png"></img>
    
-   
-   ## Contributors :
 
-- Omkar Pasalkar : https://github.com/omkar-wd
 
-- Hitendra Mali : https://github.com/h1t3ndr4
-
-- Shivanshu Mishra : https://github.com/Shaivaan
-
-- Arpit : https://github.com/fabpot11
-   
